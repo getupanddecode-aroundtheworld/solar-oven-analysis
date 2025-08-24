@@ -57,4 +57,4 @@ Complete analysis available in the Jupyter notebook with:
 - [Kaggle Notebook](https://www.kaggle.com/giuliatorrentia/solar-oven-selection-guide)
 - [Data Storytelling Projects](https://www.kaggle.com/giuliatorrentia)
 
-*Connecting sustainable technology with data science.*
+*Connecting sustainable technology with data science*
