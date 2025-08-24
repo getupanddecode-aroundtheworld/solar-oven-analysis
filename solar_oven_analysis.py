@@ -13,7 +13,7 @@ from datetime import datetime, timedelta
 plt.style.use('seaborn-v0_8')
 sns.set_palette("husl")
 
-print("🌞 Solar Oven Efficiency Analysis - Sustainable Tech")
+print("🌞 Solar Oven Efficiency Analysis - Sustainable Tech 🌞")
 print("=" * 50)
 
 # Simulate solar oven data (in real scenario, this would be measured data)
@@ -110,7 +110,7 @@ print()
 
 # Create visualizations
 fig, axes = plt.subplots(2, 2, figsize=(15, 12))
-fig.suptitle('🌞 Solar Oven Performance Analysis\nSustainable Cooking Technology', fontsize=16, fontweight='bold')
+fig.suptitle('🌞 Solar Oven Performance Analysis\nSustainable Cooking Technology 🌞', fontsize=16, fontweight='bold')
 
 # 1. Temperature curves over time
 axes[0,0].set_title('Temperature Evolution by Oven Type')
@@ -186,4 +186,5 @@ results_summary = {
 
 print("🌞 Topic: Sustainable technology meets data science 🌞")
 print("Solar Oven Selection Guide: It Depends on Your Needs!")
+
 
