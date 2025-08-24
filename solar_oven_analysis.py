@@ -185,4 +185,5 @@ results_summary = {
 }
 
 print("🌞 Topic: Sustainable technology meets data science 🌞")
-print(Solar Oven Selection Guide: It Depends on Your Needs!)
+print("Solar Oven Selection Guide: It Depends on Your Needs!")
+
