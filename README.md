@@ -1,6 +1,6 @@
 # solar-oven-analysis
 🌞 Solar oven efficiency comparison using data science - Sustainable cooking technology analysis - Selection guide 🌞
-**Data science analysis of sustainable cooking technology**
+**Data science analysis of sustainable cooking technology (slow tech and solar ovens)**
 
 ## 🎯 Overview
 
