@@ -52,10 +52,9 @@ Complete analysis available in the Jupyter notebook with:
 ---
 
 *Analysis by Giulia Torrentia - Sustainable Tech Enthusiast*  
-*"Slow tech, smart solutions" ☯️*
 
 **🔗 Related Work:**
 - [Kaggle Notebook](https://www.kaggle.com/giuliatorrentia/solar-oven-selection-guide)
 - [Data Storytelling Projects](https://www.kaggle.com/giuliatorrentia)
 
-*Part of École 42 preparation - connecting sustainable technology with data science.*
+*Part of École 42 preparation - Connecting sustainable technology with data science.*
